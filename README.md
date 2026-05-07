@@ -1,6 +1,6 @@
 # 🍗 Happy Emoji: A Vibe-Coding Experiment
 
-A rapid-prototype emoji matching game featuring a "Fight the Landlord" (欢乐斗地主) aesthetic.
+A rapid-prototype emoji matching game featuring a "Fight the Landlord" aesthetic.
 
 ---
 
